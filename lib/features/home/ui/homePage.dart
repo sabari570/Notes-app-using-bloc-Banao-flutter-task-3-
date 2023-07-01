@@ -1,10 +1,8 @@
 import 'package:banao_flutter_task3/features/home/bloc/home_bloc.dart';
 import 'package:banao_flutter_task3/features/addNotes/ui/addNotesPage.dart';
-import 'package:banao_flutter_task3/features/home/models/notesModel.dart';
 import 'package:banao_flutter_task3/features/viewNote/ui/viewNotePage.dart';
 import 'package:banao_flutter_task3/features/widgets/appBarTitleWidget.dart';
 import 'package:flutter/material.dart';
-import 'package:bloc/bloc.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class HomePage extends StatefulWidget {
