@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766172886857",
+    "project_id": "notes-app-using-bloc",
+    "storage_bucket": "notes-app-using-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766172886857:android:2564ad07dbf6204e2e8c98",
+        "android_client_info": {
+          "package_name": "com.example.banao_flutter_task3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766172886857-u6jd8e0uanj51qjoc25kk5jkgdfele68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy_Xbyatq2TIzoA5jvsnB9gguwhRKFRdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766172886857-u6jd8e0uanj51qjoc25kk5jkgdfele68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
